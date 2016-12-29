@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LyBaseProject</string>
+
+    <!-- common -->
+    <string name="network_error">网络请求出错</string>
+    <string name="app_error">客户端出错</string>
+    <string name="socket_time_out">网络请求超时！</string>
+    <string name="server_work_error">服务器响应失败！</string>
+    <string name="network_connection_fail">网络连接失败，请确认你的网络连接是否正常！</string>
+</resources>
